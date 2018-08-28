@@ -20,3 +20,17 @@
 31216||AnyIDElse|Crossbow|Crossbow|3121601|3121699|31216|31216|
 2247||JIN & AnyIDElse|Nightmare Mod V2.1|Nightmare|224700|224799|2247|2247|
 1102||EiBrsis & AnyIDElse|MK1102|MK1102|110201|110299|1102|1102|
+
+20009||Uiharu_Kazari|Extra-Reassembly|Mechanical|2000101|2000199|2003|2054|818042635
+20003||Uiharu_Kazari|Extra-Reassembly|Butterfly|2000301|2000399|2003|2054|818042635
+20004||Uiharu_Kazari|Extra-Reassembly|Suiren|2000401|2000499|2003|2054|818042635
+20005||Uiharu_Kazari|Extra-Reassembly|Mystery|2000501|2000599|2003|2054|818042635
+20006||Uiharu_Kazari|Extra-Reassembly|Witness|2000601|2000699|2003|2054|818042635
+20007||Uiharu_Kazari|Extra-Reassembly|Immortal|2000701|2000799|2003|2054|818042635
+20009||Uiharu_Kazari|Extra-Reassembly|Mechanical|2000901|2000999|2003|2054|818042635
+20010||Uiharu_Kazari|Extra-Reassembly|Infinite|2001001|2001099|2003|2054|818042635
+20011||Uiharu_Kazari|Extra-Reassembly|Linker|2001101|2001199|2003|2054|818042635
+20016||Uiharu_Kazari|Extra-Reassembly|Mojo|2001601|2001799|2003|2054|818042635
+20050||Uiharu_Kazari|Extra-Reassembly|Fungus|2005001|2005199|2003|2054|818042635
+20052||Uiharu_Kazari|Extra-Reassembly|Dancer|2005201|2000299|2003|2054|818042635
+20054||Uiharu_Kazari|Extra-Reassembly|Dryad|2005301|2005399|2003|2054|818042635
